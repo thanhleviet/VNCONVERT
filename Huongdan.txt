@@ -1,0 +1,5 @@
++ Gioi thieu: Day la doan script nho dung de chuyen doi encoding cho tieng Viet. Mac dinh la TCVN3->Unicode. Neu muon chuyen cac encoding khac thi phai khai bao them. Xem trong file Scripts.py
+By: Ninomax thanhlv@oucru.org
++ Cach dung:
+- Chay file Shapefile_Unicode_*.reg tuong ung voi tung phien ban de thiet lap cho shapefile luu duoc Unicode
+- Khoi dong ArcCatalog tim den thu muc chua file Vietnamese.tbx va Scripts.py (2 file nay phai di kem voi nhau). Trong ArcCatalog, Vietnamese se co bieu tuong hinh cai  hop mau do. Nhap chuot vao dau "+" de mo "Chuyen doi font chu" de su dung.
